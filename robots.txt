@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /jinggeomdari/admin.html
+
+Sitemap: https://kim30707.github.io/jinggeomdari/sitemap.xml
