@@ -3,5 +3,6 @@ Allow: /
 Disallow: /jinggeomdari/admin.html
 
 Sitemap: https://kim30707.github.io/jinggeomdari/sitemap.xml
+Sitemap: https://kim30707.github.io/gijang-rental/sitemap.xml
 
 #DaumWebMasterTool:d001509b0dca1ab348c554950c3ea16f42875cf6924b556814c39ad9166fc81f:pdYA2AN84tHnNET51D/IqQ==
